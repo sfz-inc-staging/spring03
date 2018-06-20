@@ -1,5 +1,5 @@
 # spring03
-my new project
+my new new project
 
 Based on seed project `spring-team:spring-rest-seed`
 
